@@ -1,3 +1,4 @@
+[![CI status on Azure Pipelines](https://dev.azure.com/reketen/Space%20Game%20-%20web/_apis/build/status/reketen.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/reketen/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
